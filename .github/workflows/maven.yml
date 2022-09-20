@@ -23,4 +23,6 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Test with Maven
-      run: mvn -B package --file pom.xml
+      run: |
+          cd exercicio1
+          mvn -B package --file pom.xml
