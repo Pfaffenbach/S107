@@ -1,10 +1,10 @@
-public class Brownie {
+public class Bolacha {
 	
 	private String nome;
 	private int qtd;
 	private double valor;
 	
-	public Brownie(String nome, int qtd, double valor) {
+	public Bolacha(String nome, int qtd, double valor) {
 		this.nome = nome;
 		this.qtd = qtd;
 		this.valor = valor;

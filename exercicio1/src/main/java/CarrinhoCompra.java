@@ -3,17 +3,17 @@ import java.util.List;
 
 public class CarrinhoCompra {
 
-	private List<Brownie> brownies;
+	private List<Bolacha> bolachas;
 	private CupomDesconto cupom;
 
 	public CarrinhoCompra() {
-		brownies = new ArrayList<Brownie>();
+		bolachas = new ArrayList<Bolacha>();
 	}
 
-	public void adiciona(Brownie bw) throws NumeroNegativoException {
+	public void adiciona(Bolacha bl) throws NumeroNegativoException {
 
-		if(bw.getQtd() > 0){
-			brownies.add(bw);
+		if(bl.getQtd() > 0){
+			bolachas.add(bl);
 		}else{
 			throw new NumeroNegativoException("Não é possivel adicionar uma quantidade negativa");
 		}
@@ -22,8 +22,8 @@ public class CarrinhoCompra {
 
 	public double somaTotal() {
 		double total = 0;
-		for (Brownie brownie : brownies) {
-			total += brownie.getValor();
+		for (Bolacha bolacha : bolachas) {
+			total += bolacha.getValor();
 		}
 
 		if(cupom != null && cupom.getDesconto() > 0){
@@ -39,9 +39,9 @@ public class CarrinhoCompra {
 
 	public double somaTotalItens() {
 		double total = 0;
-		for (Brownie brownie : brownies) {
+		for (Bolacha bolacha : bolachas) {
 
-			total += brownie.getQtd();
+			total += bolacha.getQtd();
 		}
 		return total;
 	}
