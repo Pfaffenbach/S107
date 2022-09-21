@@ -31,7 +31,7 @@ Para entender o que está sendo feito nos códigos é necessário atender aos se
     <tr>
     <td align="center>
       <a href="#">
-        <img src="[https://avatars.githubusercontent.com/u/49520647?v=4](https://avatars.githubusercontent.com/u/49520750?v=4)" width="100px;" alt="Foto do IagoCB no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/49520647?v=4" width="100px;" alt="Foto do IagoCB no GitHub"/><br>
         <sub>
           <b>Iago Luiz da Cruz Barbosa</b>
         </sub>
