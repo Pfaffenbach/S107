@@ -38,7 +38,7 @@ Para entender o que está sendo feito nos códigos é necessário atender aos se
 ## Contato
 Contato | Endereço
 ------------ | -------------
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> | (35) 9 9941 - 6805
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | erich.silveira@ges.inatel.br
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | iagoluizcb@gmail.com
 
 [⬆ Voltar ao topo](#S107-DevOps)<br>
