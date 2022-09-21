@@ -14,11 +14,10 @@ Para entender o que está sendo feito nos códigos é necessário atender aos se
 * Pode ser utilizado qualquer Sistema Operacional `<Windows / Linux / Mac>`;
 * Ter conhecimento básico sobre: `<Java / QA / Método Agil>`;
 
-## 🤝 Colaborador
+## 🤝 Colaboradores
 
 <table>
-  <tr>
-    <td align="center">
+    <td>
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/49520647?v=4" width="100px;" alt="Foto do Erich Pfaffenbach no GitHub"/><br>
         <sub>
@@ -26,12 +25,9 @@ Para entender o que está sendo feito nos códigos é necessário atender aos se
         </sub>
       </a>
     </td>
-</table>
-    <table>
-    <tr>
-    <td align="center>
+    <td>
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/49520647?v=4" width="100px;" alt="Foto do IagoCB no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/49520750?v=4" width="100px;" alt="Foto do IagoCB no GitHub"/><br>
         <sub>
           <b>Iago Luiz da Cruz Barbosa</b>
         </sub>
